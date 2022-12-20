@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boleta", "Boleta\Boleta.csproj", "{8192A40F-089D-4AE0-A9AD-4054B6020592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend", "Backend\Backend.csproj", "{9438C316-3BB9-4F3E-853B-A5084BAE9080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8192A40F-089D-4AE0-A9AD-4054B6020592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8192A40F-089D-4AE0-A9AD-4054B6020592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8192A40F-089D-4AE0-A9AD-4054B6020592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8192A40F-089D-4AE0-A9AD-4054B6020592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9438C316-3BB9-4F3E-853B-A5084BAE9080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9438C316-3BB9-4F3E-853B-A5084BAE9080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9438C316-3BB9-4F3E-853B-A5084BAE9080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9438C316-3BB9-4F3E-853B-A5084BAE9080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {148877C5-A3C6-4E73-BB52-CEC57F483243}
+	EndGlobalSection
+EndGlobal

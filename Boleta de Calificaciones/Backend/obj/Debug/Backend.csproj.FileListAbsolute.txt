@@ -1,0 +1,6 @@
+D:\Proyectos C#\Boleta de Calificaciones\Backend\bin\Debug\Backend.dll
+D:\Proyectos C#\Boleta de Calificaciones\Backend\bin\Debug\Backend.pdb
+D:\Proyectos C#\Boleta de Calificaciones\Backend\obj\Debug\Backend.csproj.AssemblyReference.cache
+D:\Proyectos C#\Boleta de Calificaciones\Backend\obj\Debug\Backend.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Boleta de Calificaciones\Backend\obj\Debug\Backend.dll
+D:\Proyectos C#\Boleta de Calificaciones\Backend\obj\Debug\Backend.pdb
